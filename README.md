@@ -24,6 +24,7 @@ removed until codecov badge isn't empy. likely a config error showing nothing on
 </div>
 
 ---
+## Continuous Integration
 <center>
 
 | System / PyTorch Version | 1.1 | 1.2 | 1.3 | 1.4 |
