@@ -21,6 +21,9 @@
 removed until codecov badge isn't empy. likely a config error showing nothing on master.
 [![codecov](https://codecov.io/gh/Borda/pytorch-lightning/branch/master/graph/badge.svg)](https://codecov.io/gh/Borda/pytorch-lightning)
 -->
+</div>
+
+<center>
 
 | System | 1.1 | 1.2 | 1.3 | 1.4 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -31,8 +34,7 @@ removed until codecov badge isn't empy. likely a config error showing nothing on
 | Windows py3.6 | ![CI testing](https://github.com/PyTorchLightning/pytorch-lightning/workflows/CI%20testing/badge.svg) | <center>—</center> | <center>—</center> | ![CI testing](https://github.com/PyTorchLightning/pytorch-lightning/workflows/CI%20testing/badge.svg) |
 | Windows py3.7 | ![CI testing](https://github.com/PyTorchLightning/pytorch-lightning/workflows/CI%20testing/badge.svg) | <center>—</center> | <center>—</center> | ![CI testing](https://github.com/PyTorchLightning/pytorch-lightning/workflows/CI%20testing/badge.svg) |
 
-
-</div>
+</center>
 
 Simple installation from PyPI
 ```bash
